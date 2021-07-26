@@ -22,3 +22,12 @@ We plan on answering the following:
 5. When should the bank reach out to the customer to see the transaction was done by them or was it a fraud?
 
 Further, using all the information that we have been provided with, we would like to predict whether a transaction can be flagged fraud or not
+
+to get a statistical answer as to which variables matter in the prediction of fraud, we use simple correlation coefficient and chi square test of independence
+
+after working throught the eda, modelling came under question
+in this case, our first step was to use logistic regression, even though there is a high imbalance in the data set, that can be manipulated using different cut off points for logistic regression (which is 0.5 by default)
+after that we try balancing the data set by using under sampling, over sampling and smote and then using different models to judge which works the best
+further we use precision, recall, accuracy to judge which model is best suited for the purpose
+
+
