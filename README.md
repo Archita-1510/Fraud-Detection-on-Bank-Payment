@@ -6,7 +6,7 @@ Team Members
 3. Rashmi Chindalia
 4. Palak Goyal
 
-Domain: Crime
+Domain: Crime, Banking
 
 Objective: To predict whether a transaction can be flagged fraud or not
 
